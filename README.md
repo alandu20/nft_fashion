@@ -5,4 +5,4 @@ Building a Sustainable Fashion Ecosystem Supporting Sustainability, Accountabili
 Website: flowerfashionistas.html
 
 About Page:
-![alt text](../images/about.png?raw=true)
+![alt text](images/about.png?raw=true)
