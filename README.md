@@ -1,6 +1,6 @@
 # Flower Fashionistas NFT
 
-Building a Sustainable Fashion Ecosystem Supporting Sustainability, Accountability, and Transparency
+Building a Sustainable Fashion Web3 Ecosystem Supporting Sustainability, Accountability, and Transparency
 
 Website: flowerfashionistas.html
 
