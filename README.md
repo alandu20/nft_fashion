@@ -1,1 +1,3 @@
-# Flower Fashionistas
+# Flower Fashionistas NFT
+
+Website: flowerfashionistas.html
